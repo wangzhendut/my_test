@@ -1,2 +1,2 @@
-giuuhoijpokpoll
-jdasf
+print("sdaf")
+print("asdisf")
